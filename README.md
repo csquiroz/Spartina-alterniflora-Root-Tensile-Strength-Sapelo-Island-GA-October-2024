@@ -30,3 +30,4 @@ Note:
 File paths in the script should be updated before running.
 
 Author: Cody S. Quiroz
+Used with data from: 10.5281/zenodo.20401507
